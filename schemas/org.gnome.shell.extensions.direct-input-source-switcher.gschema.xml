@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+
+  <schema id="org.gnome.shell.extensions.direct-input-source-switcher"
+    path="/org/gnome/shell/extensions/direct-input-source-switcher/">
+
+    <key type="i" name="input-source-count">
+      <default>3</default>
+      <summary>Number of input sources</summary>
+      <description>
+        Number of input sources
+      </description>
+    </key>
+    
+    <key type="as" name="switch-to-input-source-1">
+      <default><![CDATA[['<Super>1']]]></default>
+      <summary>Switch to input source 1</summary>
+      <description>
+        Switch to input source 1.
+      </description>
+    </key>
+    
+    <key type="as" name="switch-to-input-source-2">
+      <default><![CDATA[['<Super>2']]]></default>
+      <summary>Switch to input source 2</summary>
+      <description>
+        Switch to input source 2.
+      </description>
+    </key>
+    
+    <key type="as" name="switch-to-input-source-3">
+      <default><![CDATA[['<Super>3']]]></default>
+      <summary>Switch to input source 3</summary>
+      <description>
+        Switch to input source 3.
+      </description>
+    </key>
+    
+    <key type="as" name="switch-to-input-source-4">
+      <default><![CDATA[['<Super>4']]]></default>
+      <summary>Switch to input source 4</summary>
+      <description>
+        Switch to input source 4.
+      </description>
+    </key>
+    
+  </schema>
+
+</schemalist>

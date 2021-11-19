@@ -1,0 +1,10 @@
+{
+  "name": "Direct input source switcher",
+  "description": "Allows to map a shortcut to switch directly to any input source",
+  "shell-version": [
+    "40", "41"
+  ],
+  "url": "https://github.com/jimmytheneutrino/direct-input-source-switcher",
+  "uuid": "direct-input-source-switcher@jimmytheneutrino",
+  "version": 1.0
+}
